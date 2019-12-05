@@ -11,7 +11,7 @@
     "url": "git+https://github.com/wilf312/babel-plugin-error-massage-is-not-error-message.git"
   },
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/wilf312/babel-plugin-error-massage-is-not-error-message/issues"
   },

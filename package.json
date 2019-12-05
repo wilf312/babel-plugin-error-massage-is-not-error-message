@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest test/"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/wilf312/babel-plugin-error-massage-is-not-error-message/issues"
   },
-  "homepage": "https://github.com/wilf312/babel-plugin-error-massage-is-not-error-message#readme"
+  "homepage": "https://github.com/wilf312/babel-plugin-error-massage-is-not-error-message#readme",
+  "devDependencies": {
+    "@babel/preset-env": "^7.7.4",
+    "babel-plugin-tester": "^8.0.1",
+    "jest": "^24.9.0"
+  }
 }
